@@ -1,0 +1,6 @@
+{
+  "name": "SubjectChat AI",
+  "description": "A structured chatbot with project-based subjects and conversation threads, inspired by ChatGPT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
